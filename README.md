@@ -4,6 +4,8 @@ A simple command-line tool to unpack Anki deck packages (`.apkg`) and collection
 
 It extracts the database file and all media files into a specified directory.
 
+This tool is built using the [`github.com/lftk/anki`](https://github.com/lftk/anki) library.
+
 ## Installation
 
 With Go installed, you can install `anki-unpkg` with:
