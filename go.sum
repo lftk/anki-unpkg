@@ -8,6 +8,8 @@ github.com/klauspost/compress v1.18.0 h1:c/Cqfb0r+Yi+JtIEq73FWXVkRonBlf0CRNYc8Zt
 github.com/klauspost/compress v1.18.0/go.mod h1:2Pp+KzxcywXVXMr50+X0Q/Lsb43OQHYWRCY2AiWywWQ=
 github.com/lftk/anki v0.0.0-20250828130315-3f30f00eb778 h1:xChJQH2zDVR9bWjrX7tWZtaYbdIagPJlArPOQCWQ76c=
 github.com/lftk/anki v0.0.0-20250828130315-3f30f00eb778/go.mod h1:Dhc5twY3NyWI6fh1Tctoa5IdEDA6Smj2CSjIxxcCQbU=
+github.com/lftk/anki v0.0.0-20250829053632-75e95f08269c h1:5oyhGv+mfgXM7yHlnJ2NsiXid9CkuUPBBDrSrP5IZEc=
+github.com/lftk/anki v0.0.0-20250829053632-75e95f08269c/go.mod h1:Dhc5twY3NyWI6fh1Tctoa5IdEDA6Smj2CSjIxxcCQbU=
 github.com/mattn/go-sqlite3 v1.14.28 h1:ThEiQrnbtumT+QMknw63Befp/ce/nUPgBPMlRFEum7A=
 github.com/mattn/go-sqlite3 v1.14.28/go.mod h1:Uh1q+B4BYcTPb+yiD3kU8Ct7aC0hY9fxUwlHK0RXw+Y=
 golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543 h1:E7g+9GITq07hpfrRu66IVDexMakfv52eLZ2CXBWiKr4=

@@ -2,7 +2,7 @@ module github.com/lftk/anki-unpkg
 
 go 1.23
 
-require github.com/lftk/anki v0.0.0-20250828130315-3f30f00eb778
+require github.com/lftk/anki v0.0.0-20250829053632-75e95f08269c
 
 require (
 	github.com/alexkappa/mustache v1.0.0 // indirect
